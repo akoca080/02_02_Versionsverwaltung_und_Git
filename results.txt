@@ -1,0 +1,5 @@
+Computer Name: Zenbook_0
+Date of Test: 2024-11-10 20:44:59
+Bubble Sort Time: 3.940008 seconds
+Quick Sort Time: 0.009523 seconds
+
